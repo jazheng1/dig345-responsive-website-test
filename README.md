@@ -1,4 +1,4 @@
-# dig345-basic-website-test
+# dig345-responsive-website-test
 
 This test will help you measure your current proficiency for web design and frontend development and help you review skills for the upcoming content in DIG345.
 
