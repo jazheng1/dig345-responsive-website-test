@@ -15,7 +15,9 @@ Use the content in this repo to create a design, code the page, and publish the 
 1. Code the page in HTML and CSS
 	1. It should generally match the layout you created in Figma.
 	1. The page should be responsive, using [Bootstrap](https://getbootstrap.com/), with breakpoints.
-1. Write a Javascript function that changes content on the page based on some event (a user action, etc.).
+1. Add Javascript that:
+	1. Changes content on the page based on some event (a user action, etc.).
+	1. Logs a message to the console expressing how you feel this test went.
 1. Post two links in Moodle:
 	1. The Figma layout (make sure it is live)
 	1. The live site, published on Github Pages
